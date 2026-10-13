@@ -58,13 +58,13 @@ An AI-based plant disease detection project focused on helping identify plant di
 
 ---
 
-### 💼 Personal Portfolio
+### 💼 Bazzar Hub
 
-My personal developer portfolio showcasing my projects, skills, education, and experience.
+An e-commerce site for both the buyer and seller to sell any items.
 
 **Tech:** React • Vite • Tailwind CSS
 
-🔗 [View Portfolio](https://dipeshpoudyal.com.np)
+🔗 [View Project](https://bazzarhub.vercel.app/)
 
 ---
 
